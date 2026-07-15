@@ -1,0 +1,7 @@
+{
+  "v8path": "C:\\Program Files\\1cv8\\<version>\\bin",
+  "extensionSrc": "src",
+  "configSrc": "<path-to-base-configuration-xml>",
+  "infobase": "<path-to-test-infobase>",
+  "infobaseUser": "Admin"
+}

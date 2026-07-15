@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ГСК5855_ОбщегоНазначения" id="7260c535-2def-46c2-8ea2-0f3fb0b3928a" configVersion="c470fa8cfdf2d14ef4bce9487f14e9b7cc7fc255"/>
+		<Metadata name="CommonModule.ГСК5855_ОбщегоНазначения.Module" id="7260c535-2def-46c2-8ea2-0f3fb0b3928a.0" configVersion="bc31b73f65fb3473418859b3b0e3a5c1549b85a1"/>
+		<Metadata name="Configuration.ГСК_СчетаПоставщикам" id="4634d4b5-599a-4e3e-b9d3-5024f0e56341" configVersion="7121987f679f83e5081958c01950d06cd7b25abb"/>
+		<Metadata name="Constant.ГСК5855_ПоказыватьБрендинг" id="aefb013b-06d3-47a0-873b-fbd556ca749c" configVersion="19007d53e64c27891503eb1c8452a3f956fbacea"/>
+		<Metadata name="Constant.ГСК5855_ПоказыватьБрендинг.ManagerModule" id="aefb013b-06d3-47a0-873b-fbd556ca749c.1" configVersion="68d60866361484767e627efefc03b0355539cfd2"/>
+		<Metadata name="Constant.ГСК5855_ПоказыватьБрендинг.ValueManagerModule" id="aefb013b-06d3-47a0-873b-fbd556ca749c.0" configVersion="cfe8010e41fe54eda19612060df8e612df7d9004"/>
+		<Metadata name="Language.Русский" id="9a6bfa49-87c4-4874-a52c-b48f0283fb77" configVersion="f97b52769454684470e461d4f20af935eb8f96c8"/>
+		<Metadata name="Report.АнализНеоплаченныхСчетовПоставщиков" id="179889f4-bd2c-4e08-9c1a-05da93bec3d1" configVersion="a548d8c980d9662322ed72998aa5adc4417ad232"/>
+		<Metadata name="Report.АнализНеоплаченныхСчетовПоставщиков.Template.ОсновнаяСхемаКомпоновкиДанных" id="b855c9a4-5855-4a85-9000-000000005855" configVersion="5855b3d7236dd672f05400000000000000000001"/>
+		<Metadata name="Report.АнализНеоплаченныхСчетовПоставщиков.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="b855c9a4-5855-4a85-9000-000000005855.0" configVersion="5855f7e13c4d6a8a905400000000000000000002"/>
+		<Metadata name="Report.АнализНеоплаченныхСчетовПоставщиков.ManagerModule" id="179889f4-bd2c-4e08-9c1a-05da93bec3d1.2" configVersion="870b9163ed15d70a731d9213fccd45a3fbd71e23"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
