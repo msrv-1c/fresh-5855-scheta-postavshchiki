@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
 	<Configuration uuid="4634d4b5-599a-4e3e-b9d3-5024f0e56341">
 		<InternalInfo>
@@ -51,19 +51,43 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Gitsell</Vendor>
-			<Version>0.1.0.0</Version>
+			<Version>0.1.1.0</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
-			<BriefInformation />
-			<DetailedInformation />
-			<Copyright />
-			<VendorInformationAddress />
-			<ConfigurationInformationAddress />
+			<BriefInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Колонки суммы документа, оплаты и неоплаченного остатка в отчете по счетам поставщиков.</v8:content>
+				</v8:item>
+			</BriefInformation>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Расширение дополняет отчет «Счета, не оплаченные поставщикам» колонками «Сумма документа», «Сумма оплаты» и «Неоплаченный остаток». Пользователь сразу видит не только факт неоплаты, но и сумму обязательства, уже оплаченную часть и остаток к оплате. Доработка использует данные типового отчета и не создает дополнительных учетных документов.</v8:content>
+				</v8:item>
+			</DetailedInformation>
+			<Copyright>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>© 2026 Gitsell</v8:content>
+				</v8:item>
+			</Copyright>
+			<VendorInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>https://gitsell.ru/1c</v8:content>
+				</v8:item>
+			</VendorInformationAddress>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>https://github.com/msrv-1c/fresh-5855-scheta-postavshchiki</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ГСК5855_ОбщегоНазначения</CommonModule>
-			<Constant>ГСК5855_ПоказыватьБрендинг</Constant>
 			<Report>АнализНеоплаченныхСчетовПоставщиков</Report>
 		</ChildObjects>
 	</Configuration>
